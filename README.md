@@ -1,4 +1,4 @@
-**# DefeatWizard
+# DefeatWizard
 
 DefeatWizard is a game (or application) that challenges players to outsmart a powerful wizard using strategic moves and tactics. This repository contains the source code, assets, and necessary instructions for running and contributing to the project.
 
